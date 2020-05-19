@@ -1,4 +1,3 @@
-# randopenapis
 # Random Open APIs
 List of APIs that I have come across in my explorations. Collecting here so it might help others looking for open APIs while building sample applications.
 
