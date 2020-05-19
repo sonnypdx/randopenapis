@@ -10,6 +10,11 @@ List of APIs that I have come across in my explorations. Collecting here so it m
 
 * [List of Videos made available by OVCAA](https://orangevalleycaa.org/api/videos) - List of free video stream by Orange Valley Community Arts Association.  Came across this while doing the course [React: Building Progressive Web Apps (PWAs)](https://www.lynda.com/React-js-tutorials/React-Building-Progressive-Web-Apps-PWAs/724804-2.html) by Eve Porcello on [Lynda.com](https://www.lynda.com)
 
+
+## World Data
+
+* [World Bank Open Data](https://data.worldbank.org/) - Lots of datasets including Geospatial, Microdata (Survey) and Time Series.  Not all data is free so read the fine print before using a specific set of data. 
+
 ## Contributing
 
 We welcome your contrubution, please submit a PR!
