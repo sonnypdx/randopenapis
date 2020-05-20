@@ -14,6 +14,9 @@ List of APIs that I have come across in my explorations. Collecting here so it m
 
 * [World Bank Open Data](https://data.worldbank.org/) - Lots of datasets including Geospatial, Microdata (Survey) and Time Series.  Not all data is free so read the fine print before using a specific set of data. 
 
+## Movies
+* [The Movie Database](https://www.themoviedb.org/documentation/api) - Crowd-source movie database.  You need an API key to access but it is free.
+
 ## Contributing
 
 We welcome your contrubution, please submit a PR!
