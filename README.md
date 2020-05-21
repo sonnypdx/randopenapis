@@ -17,6 +17,9 @@ List of APIs that I have come across in my explorations. Collecting here so it m
 ## Movies
 * [The Movie Database](https://www.themoviedb.org/documentation/api) - Crowd-source movie database.  You need an API key to access but it is free.
 
+## News
+* [News API](https://newsapi.org/docs/get-started) - Developer license is free.  Crowd-source movie database.  This is the API that [Server Side Rendering for React demo project](https://github.com/ilkeraltin/react-ssr-news) uses.
+
 ## Contributing
 
 We welcome your contrubution, please submit a PR!
