@@ -20,6 +20,9 @@ List of APIs that I have come across in my explorations. Collecting here so it m
 ## News
 * [News API](https://newsapi.org/docs/get-started) - Developer license is free.  Crowd-source movie database.  This is the API that [Server Side Rendering for React demo project](https://github.com/ilkeraltin/react-ssr-news) uses.
 
+## Languages
+* [Translation API](https://mymemory.translated.net/doc/spec.php) - Translation API that is backed by both crowd-sourced snippets as well as machine translated to fill the gaps.  It is free.  
+
 ## Contributing
 
 We welcome your contrubution, please submit a PR!
